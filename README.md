@@ -4,6 +4,7 @@ This my other mini project to **store, show, save and update** the names that ar
 In this project I create the GUI interface using Tkinter in Python to create. I do everything in **Jupyter Notebook** as I have to create a DataFrame so I prefer doing everything data related on hear.
 
 Things that the user can do in this interface.
+
 1.**input first** name and **last name** and has the ability to save each name in a format of **list of tuple**
 2.**show** the list of the names, **save** it as **Excel file**
 
