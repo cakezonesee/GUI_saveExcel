@@ -13,7 +13,7 @@ Things that the user can do in this interface.
 
 3.**Save** those names as a **Excel file**. 
   
-  *WARINING* as in the code user **don't have** the ability to **choose the file name** or **the location** yet
+  *WARNING!!* as in the code user **don't have** the ability to **choose the file name** or **the location** yet
   so if user click **Save** button again, the existing file will be overwrite.
 
 ![ภาพ](https://user-images.githubusercontent.com/125641945/219996957-7e284d6c-e41f-44d9-9eca-b305799280ed.png)
