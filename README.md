@@ -5,9 +5,9 @@ In this project I create the GUI interface using Tkinter in Python to create. I 
 
 Things that the user can do in this interface.
 
-1.**input first** name and **last name** and has the ability to save each name in a format of **list of tuple**
+1.**Input first** name and **last name** and has the ability to save each name in a format of **list of tuple**
 
-2.**show** the list of the names, **save** it as **Excel file**
+2.**Show** the list of the names, **save** it as **Excel file**
 
 ![ภาพ](https://user-images.githubusercontent.com/125641945/219996741-7a9932d6-35ed-4000-940c-e1ca02c2c541.png)
 
